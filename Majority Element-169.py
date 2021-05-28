@@ -5,7 +5,7 @@ class Solution:
         nums.sort()
         return nums[len(nums) // 2]
 
-# time complexity: o(nlgn)
+# time complexity: o(nlogn)
 # space complexity: o(1) or o(n)
 
 
