@@ -1,3 +1,5 @@
+# time complexity:O(N)
+# space complexity: O(1)
 class Solution:
     def reverseString(self, s:list[str]):
         left = 0
