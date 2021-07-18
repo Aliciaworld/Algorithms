@@ -44,7 +44,7 @@ class Solution:
         # check palindrome
         left, right = head, prev
         while right:
-            if left.val != right.val
+            if left.val != right.val:
                 return False
             left = left.next
             right = right.next
