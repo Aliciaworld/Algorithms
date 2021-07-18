@@ -14,7 +14,7 @@ class SolutionL:
 
         l, r =0, len(nums)-1
         while l <= r:
-            if nums[l] != nums[r]
+            if nums[l] != nums[r]:
                 return False
             l += 1
             r -= 1
