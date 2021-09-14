@@ -7,6 +7,5 @@ class Solution(object):
 
         for num in nums:
             ans ^= num
-
         return ans
     
