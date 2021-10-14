@@ -3,7 +3,6 @@ class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
-
 # iteratively
 class Solution:
     def mergeTwo(self, l1, l2):
@@ -20,4 +19,3 @@ class Solution:
         curr.next = l1 or l2
 
         return dummy.next
-
