@@ -3,7 +3,6 @@
 # shift to the right by i(n>>i)
 # shift to the left by i(n << 31-i)
 
-
 # time complexity O(1) ('cause be guaranteed that there's going to be 32 bits
 # space complexity O(1)
 
