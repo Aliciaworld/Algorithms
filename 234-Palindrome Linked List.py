@@ -4,6 +4,7 @@ class ListNode:
         self.val = x
         self.next = None
 
+        
 class SolutionL:
     def isPalindrome(self, head:ListNode):
         nums = []
