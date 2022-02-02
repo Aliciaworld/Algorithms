@@ -1,4 +1,5 @@
 https://leetcode.com/problems/first-bad-version/
+    
 class Solution:
     def firstBadVersion(self,n):
         start = 1
