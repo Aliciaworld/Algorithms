@@ -1,6 +1,4 @@
 https://leetcode.com/problems/search-a-2d-matrix/
-
-
 # Solution 1: complexity:O(log(mn))
 class Solution:
     def searchMatrix(self, matrix, target):
