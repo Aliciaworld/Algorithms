@@ -8,4 +8,5 @@ class Solution:
                 result += sym_num[s[i]] - 2 * sym_num[s[i-1]]
             else:
                 result += sym_num[s[i]]
+                
         return result
