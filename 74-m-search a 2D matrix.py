@@ -21,7 +21,6 @@ class Solution:
         return False
 
 
-
 # Solution 2: complexity:O(log(mn))
 class Solution:
     def searchMatrix(self, matrix, target):
