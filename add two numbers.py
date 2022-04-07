@@ -4,7 +4,6 @@ class ListNode:
         self.val = val
         self.next = next
 
-
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         result = ListNode(0)
