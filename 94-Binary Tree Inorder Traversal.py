@@ -20,7 +20,8 @@ class Solution:
 
         helper(root)
         return res
-# iterative
+
+ # iterative
 class solution:
     def inorderTraversal(self, root: TreeNode):
         res = []
