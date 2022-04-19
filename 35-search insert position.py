@@ -1,7 +1,4 @@
-https://leetcode.com/problems/search-insert-position/
-
-    
-    
+  
 class Solution:
     def searchInsert(self, nums, target):
         if target > nums[len(nums) - 1]:
