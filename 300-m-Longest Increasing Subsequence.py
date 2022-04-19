@@ -1,5 +1,3 @@
-https://leetcode.com/problems/longest-increasing-subsequence/
-
 class Solution:
     def lengthofLIS(self, nums: List[int]):
         d = []
